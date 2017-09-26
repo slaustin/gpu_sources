@@ -1,0 +1,1 @@
+nvcc covariance_int_resize.cu -o generate_covariance_int_resize
